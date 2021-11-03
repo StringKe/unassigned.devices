@@ -5,7 +5,7 @@
 <!ENTITY author    "dlandon">
 <!ENTITY version   "2021.05.01a">
 <!ENTITY launch    "Main/UnassignedDevices">
-<!ENTITY gitURL    "https://github.com/&author;/unassigned.devices/raw/master">
+<!ENTITY gitURL    "https://ghproxy.com/https://github.com/&author;/unassigned.devices/raw/master">
 <!ENTITY pluginURL "&gitURL;/&name;.plg">
 <!ENTITY supportURL	"https://forums.unraid.net/topic/92462-unassigned-devices-managing-disk-drives-and-remote-shares-outside-of-the-unraid-array/">
 <!ENTITY packages	"/boot/config/plugins/&name;/packages">
